@@ -1,0 +1,24 @@
+{
+ "charge": {
+  "frame": 210,
+  "frames": 30
+ },
+ "rings": {
+  "frames": 20,
+  "width": 128,
+  "height": 128,
+  "fps": 40
+ },
+ "sphere": {
+  "frames": 20,
+  "width": 128,
+  "height": 128,
+  "fps": 40
+ },
+ "pow": {
+  "frames": 12,
+  "width": 32,
+  "height": 224,
+  "fps": 40
+ }
+}
