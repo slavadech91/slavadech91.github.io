@@ -1,0 +1,5 @@
+<proplibs>
+	<library name='Land v1' resource-id='/battle_lazy/proplibs/Map2042' version='1' />
+	<library name='Elements v1' resource-id='/battle_lazy/proplibs/Map2042' version='1' />
+	<library name='Buildings v1' resource-id='/battle_lazy/proplibs/Map2042' version='1' />
+</proplibs>

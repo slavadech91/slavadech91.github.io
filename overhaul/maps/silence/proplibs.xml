@@ -1,0 +1,18 @@
+<proplibs>
+	<library name='Broken Walls' resource-id='/battle_lazy/proplibs/BrokenWalls' version='1' />
+	<library name='Bush' resource-id='/battle_lazy/proplibs/Bush' version='1' />
+	<library name='City Buildings' resource-id='/battle_lazy/proplibs/CityBuildings' version='1' />
+	<library name='Industrial Bridge' resource-id='/battle_lazy/proplibs/IndustrialBridgeNew' version='1' />
+	<library name='Industrial Elements' resource-id='/battle_lazy/proplibs/IndustrialElementsNew' version='1' />
+	<library name='Land Hills' resource-id='/battle_lazy/proplibs/LandHills' version='1' />
+	<library name='Land Rise' resource-id='/battle_lazy/proplibs/LandRise' version='1' />
+	<library name='Land Rocks' resource-id='/battle_lazy/proplibs/LandRocks' version='1' />
+	<library name='Land Tiles' resource-id='/battle_lazy/proplibs/LandTiles' version='1' />
+	<library name='NuBu 6' resource-id='/battle_lazy/proplibs/Nubu6' version='1' />
+	<library name='NuBu 9' resource-id='/battle_lazy/proplibs/Nubu9' version='1' />
+	<library name='Outer Walls' resource-id='/battle_lazy/proplibs/OuterWalls' version='1' />
+	<library name='Promotion' resource-id='/battle_lazy/proplibs/Promotion' version='1' />
+	<library name='Roadblock' resource-id='/battle_lazy/proplibs/Roadblock' version='1' />
+	<library name='Stuffs' resource-id='/battle_lazy/proplibs/Stuffs' version='1' />
+	<library name='Waffle Fence' resource-id='/battle_lazy/proplibs/WaffleFence' version='1' />
+</proplibs>

@@ -1,0 +1,23 @@
+<proplibs>
+	<library name='Bridge Parts' resource-id='/battle_lazy/proplibs/BridgeParts' version='1' />
+	<library name='Bush' resource-id='/battle_lazy/proplibs/Bush' version='1' />
+	<library name='City Builds' resource-id='/battle_lazy/proplibs/CityBuilds' version='1' />
+	<library name='Cliffs' resource-id='/battle_lazy/proplibs/Cliffs' version='1' />
+	<library name='Concrete Tiles' resource-id='/battle_lazy/proplibs/ConcreteTiles' version='1' />
+	<library name='Concrete Walls' resource-id='/battle_lazy/proplibs/ConcreteWalls' version='1' />
+	<library name='Grass Tiles' resource-id='/battle_lazy/proplibs/GrassTiles' version='1' />
+	<library name='NuBu 1' resource-id='/battle_lazy/proplibs/Nubu1' version='1' />
+	<library name='NuBu 10' resource-id='/battle_lazy/proplibs/Nubu10' version='1' />
+	<library name='NuBu 12' resource-id='/battle_lazy/proplibs/Nubu12' version='1' />
+	<library name='NuBu 14' resource-id='/battle_lazy/proplibs/Nubu14' version='1' />
+	<library name='NuBu 2' resource-id='/battle_lazy/proplibs/Nubu2' version='1' />
+	<library name='NuBu 3' resource-id='/battle_lazy/proplibs/Nubu3' version='1' />
+	<library name='NuBu 4' resource-id='/battle_lazy/proplibs/Nubu4' version='1' />
+	<library name='NuBu 5' resource-id='/battle_lazy/proplibs/Nubu5' version='1' />
+	<library name='NuBu 6' resource-id='/battle_lazy/proplibs/Nubu6' version='1' />
+	<library name='NuBu 8' resource-id='/battle_lazy/proplibs/Nubu8' version='1' />
+	<library name='NuBu 9' resource-id='/battle_lazy/proplibs/Nubu9' version='1' />
+	<library name='Promotion' resource-id='/battle_lazy/proplibs/Promotion' version='1' />
+	<library name='Roadblock' resource-id='/battle_lazy/proplibs/Roadblock' version='1' />
+	<library name='Slopes Rises' resource-id='/battle_lazy/proplibs/SlopesRises' version='1' />
+</proplibs>

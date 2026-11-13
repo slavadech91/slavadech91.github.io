@@ -1,0 +1,202 @@
+{
+  "artillery.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_artilleryIconClass.png",
+    "sha256": "9566bbc0a0b2a101f905619157d4df24fe533caf13e3b33c7591e4c01d592319"
+  },
+  "atField.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_atFieldIconClass.png",
+    "sha256": "836fd3700d13b54f70e9f32577ac1d51514873d3a5f56fec9c1e0e162f9e107c"
+  },
+  "devastation.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_devastationIconClass.png",
+    "sha256": "6b392c6274d19b4173ec2cdb728cd36395ad46c01f93e76eff9c284242821105"
+  },
+  "firebird.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_firebirdIconClass.png",
+    "sha256": "1b52416e7784ded6a2a920a53df7deab8ec326e4d677e1b41e14ac58028edf21"
+  },
+  "freeze.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_freezeIconClass.png",
+    "sha256": "891ceec405947dc9af6f25f811299bce2502d065878e2c9cbdc4d41d2a02e382"
+  },
+  "gauss.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_gaussIconClass.png",
+    "sha256": "9f3c4b81fa0f5582b720e872c066f5e3f57786e7b98fb3e22543e4f54c5504f5"
+  },
+  "isis.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_isisIconClass.png",
+    "sha256": "782098a7ad45b18958755c3932c2caf8b525ada6f646c2d16f650933abb60027"
+  },
+  "machinegun.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_machinegunIconClass.png",
+    "sha256": "79596a87ad67a5ba170adfc5750c3db6d1e01fd9ebb2580be1b189e8aada916c"
+  },
+  "mine.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_mineIconClass.png",
+    "sha256": "489e7a19e581910709e8163919402b0758e1349e5b2a6dc284508cd5906a08f2"
+  },
+  "nuclear.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_nuclearIconClass.png",
+    "sha256": "6669785a942df9d0b85aa1e6d8d9a07b6dabc005f28cab91a04700d0dda4c76d"
+  },
+  "railgun.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_railgunIconClass.png",
+    "sha256": "8c269e71ca0b042ed55ac7a2ccf4f49b2ca0bb5b4648c9aff275ec1cef85483a"
+  },
+  "ranks/1.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank01.png",
+    "sha256": "28d81aa70e323ea50ad0c3db1e071fec18dce238b6e02e4cc001b979a54f9cdb"
+  },
+  "ranks/10.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank10.png",
+    "sha256": "859df5e7738c08a3239dd7437e3c3eebd12c1215602bfbf6956efdeda648b8a5"
+  },
+  "ranks/11.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank11.png",
+    "sha256": "690b82b25cdea8301a2a7bd573f08c44763afa1ceb69f7e0cd04118d37c8a70c"
+  },
+  "ranks/12.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank12.png",
+    "sha256": "e2ef9abba524d9544a5286e927ead956509ffaadd294c3316947c1a59d475d58"
+  },
+  "ranks/13.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank13.png",
+    "sha256": "4f3a40bc9561611c4077c5d050f4a0a3c9d3f8ddb34794aa492e01620a13bd3a"
+  },
+  "ranks/14.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank14.png",
+    "sha256": "2ece46060c578bb16f1ad54739049bb5afed93775f7fa9631a8d74d00565c6a6"
+  },
+  "ranks/15.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank15.png",
+    "sha256": "4c353bba6bf4789cedc5c1c23810a90cb23d817307fa2109aae80a41f6779ba0"
+  },
+  "ranks/16.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank16.png",
+    "sha256": "1b9fe81ecee101a4357ee4f2ec3641e2469cbc196cfafee911d4380bd25c08a0"
+  },
+  "ranks/17.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank17.png",
+    "sha256": "dad0534c11f76cbf396660193e6408f215b50c5d55a96dfbe81e9eea593c2f41"
+  },
+  "ranks/18.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank18.png",
+    "sha256": "be2813c0c149eb65fc71fffcf00a6652d4e5b5f2fe25c055a0cc184cd772e133"
+  },
+  "ranks/19.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank19.png",
+    "sha256": "4f2221c03bffd22a347af0910843bb2a53db62abb437b20a9216c0cd4875a655"
+  },
+  "ranks/2.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank02.png",
+    "sha256": "d7c1d70d5babe7454bee48f04b3ad0387afcc598ce33ed357d5e6e320f1527ba"
+  },
+  "ranks/20.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank20.png",
+    "sha256": "480ca869c811186df5c4279e9867cebbeb3b014d927326ad33e2f4862c38c866"
+  },
+  "ranks/21.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank21.png",
+    "sha256": "0a92b400ec5bc17afc88014fbcc8eda75b145cc4f87e4de94bce5aa4208fedc7"
+  },
+  "ranks/22.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank22.png",
+    "sha256": "67cda1fa3f326061a43c33f8c9a5bb9a5b20014c1df564be6bcb4dedf09a7009"
+  },
+  "ranks/23.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank23.png",
+    "sha256": "68e4c42e8955adaeb99ee02e5d4e414594b1c8bf47074af93e8ab241cd05cdaf"
+  },
+  "ranks/24.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank24.png",
+    "sha256": "3fdbb6f14e55ea0b08b3920822322bfd9371b28220ba36a54fd8ccf1dbad50fc"
+  },
+  "ranks/25.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank25.png",
+    "sha256": "19e8be9df097611e625362841a3af0ccaaf0cf558ae419c201714cf5a114beb5"
+  },
+  "ranks/26.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank26.png",
+    "sha256": "921c9d89b8cd4c3dd1e4f4a296a879ef1c761f2089a108634888d2095539869d"
+  },
+  "ranks/27.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank27.png",
+    "sha256": "e9cacaaf28ea4870af543eacbe366c6676c0ddddbb8c0f1f23cf34f3bef3513c"
+  },
+  "ranks/28.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank28.png",
+    "sha256": "f5c6e44015a3479472aeadedff3b03928c9ddad5c95f22d570e6f4021d68f328"
+  },
+  "ranks/29.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank29.png",
+    "sha256": "e0e3f84a5473c9d69c125dbcc9589d605a2e853d0c0b72ec61067f0314fb597c"
+  },
+  "ranks/3.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank03.png",
+    "sha256": "9cfdcdbed3ca96540ee29534976f5d5558a52909d9a91d287ac37362d3a31cba"
+  },
+  "ranks/30.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank30.png",
+    "sha256": "e4f6ff0abca452a004c4ea616c33aa91e6223804312dc7c2da9718b18d505d4a"
+  },
+  "ranks/31.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank31.png",
+    "sha256": "8961f3b52fef93f274ee412f9f462824a1a20ddbd8b8da3e4560a38630ad4081"
+  },
+  "ranks/4.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank04.png",
+    "sha256": "4c7e5a71545f7e0590b8ae5687c181a82691b73bb8b4c51e1b17c9c65ed2558d"
+  },
+  "ranks/5.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank05.png",
+    "sha256": "e5627e2221b8b4c89b16d4e9a9df2325a40107049ad2d246722ed481693048dc"
+  },
+  "ranks/6.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank06.png",
+    "sha256": "516c3f78c33d70477cb979aaf39e0e79b3f0e8fb225af27f25022c968ccb16f5"
+  },
+  "ranks/7.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank07.png",
+    "sha256": "4a9eb7798cdab484a183809140521a91e7110d8432dab22395c6ce3ee61aa754"
+  },
+  "ranks/8.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank08.png",
+    "sha256": "d7bcad6991e20e0a17738b7ffb6ad4f6f6eb6b17fc68f2de214c8eb5ac1aa3c5"
+  },
+  "ranks/9.png": {
+    "source": "client/entrance/src/_assets/forms.ranks.DefaultRanksBitmaps_bitmapSmallRank09.png",
+    "sha256": "21fa524f3a920093fda10e5db69e4ac9b0f5d4d66538f6ed6515d204291e567e"
+  },
+  "ricochet.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_ricochetIconClass.png",
+    "sha256": "c24525351098162314725d8b4fd1c8aba217c37a68cbc559a38df39bd82cc59b"
+  },
+  "rocket.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_rocketIconClass.png",
+    "sha256": "971cb7b62e4e2bff2026a6cf52bace5df49bd907a2cccbbcc82d5e3a8f8a1873"
+  },
+  "self-destroy.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.ActionOutputLine_playerSelfDestroyIcon.png",
+    "sha256": "9b6818e436e01a9aef2f7d9caac43131635f0c10227ba3884f4992c9c3aa28a1"
+  },
+  "shaft.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_shaftIconClass.png",
+    "sha256": "feb6d5ec8d96997c465e92f1d51255da0a07de1270a6e394e26b16881d71c6b4"
+  },
+  "shotgun.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_shotgunIconClass.png",
+    "sha256": "c48a2182a99169bfb7e35fbd547972edb43fdec8e2ea240e8ba5d9eaa3af52aa"
+  },
+  "smoky.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_smokyIconClass.png",
+    "sha256": "312eacb022d853884b6fe6f40a4bbfe6a3102c2ff022fd55d44cecb1506cf858"
+  },
+  "thunder.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_thunderIconClass.png",
+    "sha256": "698cffa14b861e68b2c0ba6d9e45b4c67c72eee4a158880cbdcaee13d286ecae"
+  },
+  "twins.png": {
+    "source": "client/game/src/_assets/alternativa.tanks.models.battle.gui.gui.statistics.messages.KillMessageOutputLine_twinsIconClass.png",
+    "sha256": "e32551049011a7c0bed2bcd55df3b99fcaef8967d2fbfe36d70d6362d0305dec"
+  }
+}
