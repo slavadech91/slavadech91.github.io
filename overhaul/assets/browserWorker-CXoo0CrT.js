@@ -1,0 +1,2 @@
+const n=""+new URL("compute.worker-CQx_UgET.js",import.meta.url).href;function c(e){const t=new URL(n,import.meta.url).href,r=URL.createObjectURL(new Blob([`import ${JSON.stringify(t)};`],{type:"text/javascript"}));try{return{worker:new Worker(r,{type:"module",name:`overhaul-compute-${e+1}`}),blob:r}}catch(o){throw URL.revokeObjectURL(r),o}}export{c as spawnWorker};
+//# sourceMappingURL=browserWorker-CXoo0CrT.js.map
